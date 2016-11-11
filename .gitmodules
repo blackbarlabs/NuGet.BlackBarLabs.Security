@@ -1,0 +1,3 @@
+[submodule "lib/BlackBarLabs.Security"]
+	path = BlackBarLabs.Security
+	url = git@github.com:blackbarlabs/BlackBarLabs.Security.git
